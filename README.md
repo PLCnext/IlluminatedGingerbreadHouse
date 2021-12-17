@@ -46,3 +46,9 @@ The following software must be installed on the PC:
 You can now select your favourite program via the push buttons and setup the speed with the poti on the Starterkit.
 
 <img src="images/House-4.jpeg" alt="drawing"/>
+
+## License
+
+Copyright (c) Phoenix Contact GmbH & Co KG. All rights reserved.
+
+Licensed under the [MIT](LICENSE) License.
